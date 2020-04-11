@@ -3,7 +3,7 @@
 
 ## This is a simple plugin that protects AFK players from dying.
 
-###Features:
+### Features:
 - Placing barrier blocks (aka invisible blocks) around AFK player (This will not break existing blocks)
 - One simple command to toggle AFK status
 - Broadcast AFK status
