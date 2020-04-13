@@ -7,6 +7,7 @@
 - Placing barrier blocks (aka invisible blocks) around AFK player **(This will not break existing blocks)**
 - Remove barrier blocks after disabling AFK mode or disconnected
 - Auto detect AFK players
+- Prevent abuse of command (disable during attacking or getting damage)
 - Two simple commands to toggle AFK status
 - Broadcast AFK status
 - No lag! Very light-weight plugin
@@ -17,6 +18,5 @@
 - /unafk = Disable AFK mode
 
 ### Future Plans:
-- Prevent abusing command (disable during PvP, cooldowns)
 - Prevent putting lava near barrier blocks
 - Customizable messages
